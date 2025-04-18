@@ -33,6 +33,8 @@ This project presents a comprehensive analysis of Olist’s operational data to 
  3. Correlate payment types with customer behaviors and order values.
 
 
+
+
  Tools & Technologies
 
  1. SQL – Data extraction and transformation
@@ -41,12 +43,16 @@ This project presents a comprehensive analysis of Olist’s operational data to 
  4. Excel – Summary tables and quick visual charts
 
 
+
+
  Key Insights
 
  1. Certain product categories consistently receive lower ratings due to delivery delays.
  2. Credit card is the most preferred payment method, often used with installments.
  3. Delivery performance varies significantly across regions, impacting customer satisfaction.
  4. High sales volume doesn’t always correlate with high customer ratings, indicating opportunities for quality improvement.
+
+
 
 
  Project Outcome
